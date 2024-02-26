@@ -1,3 +1,3 @@
 void main(void)
-f.try(main) // branch
+// new code goes here
 return;
