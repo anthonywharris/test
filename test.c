@@ -1,3 +1,3 @@
 void main(void)
-// new code goes here
+int i = 3; // new code goes here
 return;
